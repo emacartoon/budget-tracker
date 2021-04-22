@@ -4,9 +4,9 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "/db.js",
   "./index.js",
-  "./manifest.webmanifest",
   "/icons/icon192.png",
   "/icons/icon512.png",
+  "./manifest.webmanifest",
 ];
 const CACHE_NAME = "static-cache-v3";
 const DATA_CACHE_NAME = "data-cache-v1";
