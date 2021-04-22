@@ -46,6 +46,3 @@ If you have any questions about this project, or happen to use this project, ple
 Email: emacartoon@gmail.com
 <br>
 GitHub: [@EmaCartoon](https://github.com/EmaCartoon)
-
-### Known Issues
-I am currently having issues on the Heroku deployment getting the MongoDB to connect. But if you download to desktop and run locally, it works perfectly.
